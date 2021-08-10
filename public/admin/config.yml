@@ -139,9 +139,9 @@ collections:
       - label: "Body"
         name: "body"
         widget: "markdown"
-  - name: "page"
+  - name: "About Us"
     label: "Pages"
-    folder: "content/pages/"
+    file: "content/about-us.mdx/"
     extension: "mdx"
     format: "frontmatter"
     create: true
