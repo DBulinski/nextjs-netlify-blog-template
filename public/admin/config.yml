@@ -141,7 +141,7 @@ collections:
         widget: "markdown"
   - name: "About Us"
     label: "Pages"
-    file: "content/about-us.mdx/"
+    folder: "content/pages/"
     extension: "mdx"
     format: "frontmatter"
     create: true
