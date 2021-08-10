@@ -139,7 +139,7 @@ collections:
       - label: "Body"
         name: "body"
         widget: "markdown"
-    - name: "page"
+  - name: "page"
     label: "Pages"
     folder: "content/pages/"
     extension: "mdx"
